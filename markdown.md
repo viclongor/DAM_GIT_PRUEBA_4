@@ -1,6 +1,6 @@
-#Titulo principal
+# Titulo principal
 
-###Un subtítulo
+### Un subtítulo
 
 Esto es un **archivo** que muestra los diferentes *tipos* de markdown en `github` que hay
 
